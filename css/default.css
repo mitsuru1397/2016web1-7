@@ -46,5 +46,5 @@ footer{
   height: 80px;
   margin: 5px;
   float: left;
-  overflow: auto;
+  overflow: scroll;
 }
