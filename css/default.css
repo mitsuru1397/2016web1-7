@@ -46,7 +46,7 @@ footer{
   height: 80px;
   margin: 5px;
   float: left;
-  overflow: scroll;
+  overflow: auto;
 }
 body{
   background-color: gray;
@@ -54,7 +54,7 @@ body{
 }
 header{
   background-color: orange;
-  background: fixed;
+  position: fixed;
   left: 0;
   top: 0;
   width: 100%;
