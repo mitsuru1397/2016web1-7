@@ -32,6 +32,13 @@ footer{
   clear: both;
 }
 
+#main{
+  background-color: silver;
+  width: calc(100% - 200px);
+  min-width: 500px;
+  float: left;
+}
+
 .box{
   background-color: red;
   color: black;
