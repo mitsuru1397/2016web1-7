@@ -48,3 +48,13 @@ footer{
   float: left;
   overflow: scroll;
 }
+body{
+  background-color: gray;
+  margin: 48px 0 0 0;
+}
+header{
+  background: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
