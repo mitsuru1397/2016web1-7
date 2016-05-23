@@ -67,3 +67,10 @@ aside{
   top: 20px;
   right: 10px;
 }
+
+#windows{
+  width: 24px;
+  position: absolute;
+  left: 50px;
+  top: 50px;
+}
